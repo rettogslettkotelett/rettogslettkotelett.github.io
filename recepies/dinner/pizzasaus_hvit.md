@@ -3,3 +3,5 @@
 2 fedd hvitløk
 oregano
 1/2 lime, saften
+
+passer med bacon, fenalår, sterke pølser og vårløk
