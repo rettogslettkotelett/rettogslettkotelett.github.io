@@ -1,0 +1,1 @@
+Kvit sjokolade, heil plate, 160 grader i 10-15 min, fryse ned og bryte opp.
