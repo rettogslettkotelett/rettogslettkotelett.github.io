@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Oppskrift på kvit pizzasaus"
+date:   2022-06-27 20:09:37 +0200
+categories: oppskrift middag # vil gi oppskrift/middag
+---
+
 ## Kvit pizzasaus
 
 Passer bra med bacon, fenalår eller sterke pølser, samt dill og vårløk

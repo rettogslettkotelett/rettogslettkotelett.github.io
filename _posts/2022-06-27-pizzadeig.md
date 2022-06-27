@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Pizzadeig"
+date:   2022-06-27 20:09:38 +0200
+categories: kunnskap
+---
+
 Pizzabotn, litt generell informasjon
 
 Mjølstyrke: Seier noko om proteinnivået i mjølet. Jo meir protein, jo sterkare mjøl. Sterkare mjøl kan heve lenger og treng mindre gjær. Betehnes nokon gonger med bokstaven W, og betegnar energien som trengs for å skape ein deigboble så stor som mulig før den bristar. Sterkt mjøl har 250-310W. Proteinnivået går frå 9-16% og gir også ein indikasjon på styrken. 13-14% betegnar eit sterkt mjøl.

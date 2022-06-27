@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Oppskrift på pizzadeig for porsjonspizza"
+date:   2022-06-27 20:09:39 +0200
+categories: oppskrift middag # vil gi oppskrift/middag
+---
+
 ## Pizzabotn til porsjonspizza, oppskrift 1
 
 Sett inn bilde her
