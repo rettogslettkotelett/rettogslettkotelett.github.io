@@ -1,19 +1,22 @@
 ### Surkål
 
+Sett inn bilde her
+
 #### Mengde
 5 porsjoner
 
 #### Ingredienser
-1 kg hodekål
-2 stk eple, grønne
-1 ss salt
-2 ss karve
-4 dl vann, eller kraft
-1 dl epleeddik
-4 ts sukker
-3 charlottlauk
-pepper
-ribbefett
+
+1 kg hodekål<br>
+2 stk eple, grønne<br>
+1 ss salt<br>
+2 ss karve<br>
+4 dl vann, eller kraft<br>
+1 dl epleeddik<br>
+4 ts sukker<br>
+3 charlottlauk<br>
+pepper<br>
+ribbefett<br>
 
 #### Framgongsmåte
 
