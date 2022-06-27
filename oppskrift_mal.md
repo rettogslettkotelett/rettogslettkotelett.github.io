@@ -9,3 +9,5 @@ Sett inn bilde her
 #### Framgongsmåte
 
 #### Inspirasjon
+
+#### Forbedringspotensiale
