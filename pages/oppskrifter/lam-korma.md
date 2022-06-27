@@ -7,27 +7,27 @@ Sett inn bilde her
 
 #### Ingredienser
 
-1 ss olivenolje
-1 ss sesamfrø
-1 ss valmuefrø
-1,5 dl skåldede mandler
-3 store grønne chili, renset
-7 stk hvitløkfedd, grovhakket
-5 cm bit av fersk ingefær, grovhakket
-2 finhakket løk
-8 stk grønne kardemommefrø
-1 stk kanelstang
-6 stk hel mellik
-1,5 kg lammekjøtt, delt i terninger
-7 dl lammekraft
-1 ss malt spisskummen
-1 ss malt koriander
-1 dl matfløte
-3 dl lett crème fraîche
-1 ss maissenna
-5 ss tomat puré
-salt
-pepper
+1 ss olivenolje<br>
+1 ss sesamfrø<br>
+1 ss valmuefrø<br>
+1,5 dl skåldede mandler<br>
+3 store grønne chili, renset<br>
+7 stk hvitløkfedd, grovhakket<br>
+5 cm bit av fersk ingefær, grovhakket<br>
+2 finhakket løk<br>
+8 stk grønne kardemommefrø<br>
+1 stk kanelstang<br>
+6 stk hel mellik<br>
+1,5 kg lammekjøtt, delt i terninger<br>
+7 dl lammekraft<br>
+1 ss malt spisskummen<br>
+1 ss malt koriander<br>
+1 dl matfløte<br>
+3 dl lett crème fraîche<br>
+1 ss maissenna<br>
+5 ss tomat puré<br>
+salt<br>
+pepper<br>
 
 #### Framgongsmåte
 
