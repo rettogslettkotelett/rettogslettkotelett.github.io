@@ -3,6 +3,7 @@ layout: post
 title:  "Oppskrift på kvit pizzasaus"
 date:   2022-06-27 20:09:37 +0200
 categories: middag # frukost lunsj middag dessert kake drikke saus tilbehør
+featured_image: kvit_sjokolade.jpeg
 ---
 
 ## Kvit pizzasaus
