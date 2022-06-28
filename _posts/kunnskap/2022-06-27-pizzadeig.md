@@ -2,7 +2,7 @@
 layout: post
 title:  "Pizzadeig"
 date:   2022-06-27 20:09:38 +0200
-categories: kunnskap
+categories: bakverk
 ---
 
 Pizzabotn, litt generell informasjon

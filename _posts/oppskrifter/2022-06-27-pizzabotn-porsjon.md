@@ -2,7 +2,7 @@
 layout: post
 title:  "Oppskrift på pizzadeig for porsjonspizza"
 date:   2022-06-27 20:09:39 +0200
-categories: oppskrift middag # vil gi oppskrift/middag
+categories: middag # frukost lunsj middag dessert kake drikke saus tilbehør
 ---
 
 ## Pizzabotn til porsjonspizza, oppskrift 1
