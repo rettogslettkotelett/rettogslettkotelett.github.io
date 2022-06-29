@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  
   {%- include head.html -%}
 
   <body>
@@ -17,6 +17,16 @@
 
     <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
     <script>
+    var scroll = new SmoothScroll('a[href*="#"]');
+
+    window.onscroll = function() {
+      if (window.pageYOffset > 500) {
+        document.getElementById("scroll-to-top").style.display = 'block';
+      } else {
+        document.getElementById("scroll-to-top").style.display = 'none';
+      }
+    };
+
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search'),
       resultsContainer: document.getElementById('search-result'),
@@ -24,16 +34,42 @@
       searchResultTemplate: '<a class="result-item" href="https://www.rettogslettkotelett.no{url}"><div class="title">{title}'+
               '</div><div class="description">{description}</div></a>'
     });
-    
+      var keyword = 0;
       document.querySelector('#search').addEventListener('keyup', function () {
-        var keyword = this.value.toLowerCase();
+        keyword = this.value.toLowerCase();
 
         sjs.search(keyword);
 
         if (keyword.length > 0) {
-          document.querySelector('#search-result').style.display = 'block';;
+          console.log(document.querySelectorAll('#search-result'));
+          document.querySelector('#search-result').style.display = 'block';
         } else {
-          document.querySelector('#search-result').style.display = 'none';;
+          document.querySelector('#search-result').style.display = 'none';
+        }
+      });
+
+      window.addEventListener("click", (e) => {
+        // display searchbar on clicking searchbar icon
+        console.log(e.target.className);
+        if (e.target.className.includes('fa-search')) {
+          if (document.querySelector('.searchbar-wrapper').style.display == 'block') {
+            document.querySelector('.searchbar-wrapper').style.display = 'none';
+            document.querySelector('.page-content').style.marginTop = '0';
+          } else {
+            document.querySelector('.searchbar-wrapper').style.display = 'block';
+            document.querySelector('.page-content').style.marginTop = '56px';
+          }
+        }
+
+        // hide searchresult on clicking elsewhere
+        if (!e.target.id.includes('search')) {
+          document.querySelector('#search-result').style.display = 'none';
+        } else { // display search result on clicking searchbar
+          if (keyword.length > 0) {
+            document.querySelector('#search-result').style.display = 'block';
+          } else {
+            document.querySelector('#search-result').style.display = 'none';
+          }
         }
       });
     </script>
