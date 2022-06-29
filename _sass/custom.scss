@@ -1,7 +1,10 @@
  .header-wrapper {
-  display: flex;
-  flex-direction: row;
-  column-gap: 3em;
+    display: flex;
+    flex-direction: row;
+    column-gap: 3em;
+    justify-items: center;
+    align-items: center;
+    margin: 12px auto;
 }
 
 .featured-image {
