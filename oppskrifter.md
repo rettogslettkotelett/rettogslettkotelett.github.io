@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: oppskrifter
 title: Oppskrifter
 permalink: /oppskrifter/
 ---
 
-Her kjem det nokon oppskrifter
