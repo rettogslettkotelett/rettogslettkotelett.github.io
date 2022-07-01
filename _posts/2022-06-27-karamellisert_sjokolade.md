@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Oppskrift på karamellisert kvit sjokolade"
-date:   2022-06-27 20:09:41 +0200
-categories: tilbehør # frukost lunsj middag dessert kake drikke saus tilbehør
+date:   2022-06-27
+categories: oppskrifter tilbehør
 featured_image: kvit_sjokolade.jpeg
 ---
 

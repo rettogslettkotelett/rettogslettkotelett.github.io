@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Oppskrift på pizzadeig for porsjonspizza"
-date:   2022-06-27 20:09:39 +0200
-categories: middag # frukost lunsj middag dessert kake drikke saus tilbehør
+date:   2022-06-27
+categories: oppskrifter middag
 featured_image: kvit_sjokolade.jpeg
 ---
 

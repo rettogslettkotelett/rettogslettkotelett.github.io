@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Pizzadeig"
-date:   2022-06-27 20:09:38 +0200
-categories: bakverk
+date:   2022-06-27
+categories: kunnskap
 featured_image: kvit_sjokolade.jpeg
 ---
 

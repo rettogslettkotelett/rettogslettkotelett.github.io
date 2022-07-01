@@ -1,9 +1,12 @@
 <!-- ---
 layout: post
 title:  ""
-date:   2022-06-27 20:09:37 +0200
-categories: til-frukost til-lunsj til-middag til-dessert til-kaffien snacks saus-og-dressing krydder-og-marinade drikke tilbehør bakst paalegg 
-featured_image: image.jpeg
+date:   YYYY-MM-DD
+CAT kunnskap oppskrifter
+SUBCAT til-frukost til-lunsj til-middag til-dessert til-kaffien snacks saus-og-dressing krydder-og-marinade drikke tilbehør bakst paalegg
+categories: kategori subkategori  
+preview_image: image.jpeg
+header_image.jpeg
 ---
 
 ### Mengde
