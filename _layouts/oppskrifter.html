@@ -17,8 +17,10 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts limit:25 %}
 
-      {% if post.path contains 'oppskrifter' %}
+      <li>{% post.path }</li>
 
+
+      {% if post.path contains 'oppskrifter' %}
         <li>
           <div>
             {% assign date_format = site.minima.date_format 
@@ -42,7 +44,6 @@ layout: default
           </div>
           {% endif %}
         </li>
-
       {% endif %}
 
       {% endfor %}
