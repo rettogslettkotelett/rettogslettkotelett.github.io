@@ -4,22 +4,6 @@ layout: default
 
 <div class="oppskrifter">
 
-  <!-- Kategorier -->
-  <h2 class="post-list-heading">Kategorier</h2>
-
-  <a class="page-link" href="/til-frukost/">Til frukost</a>
-  <a class="page-link" href="/til-middag/">Til middag</a>
-  <a class="page-link" href="/til-dessert/">Til dessert</a>
-  <a class="page-link" href="/til-kaffien/">Til kaffien</a>
-  <a class="page-link" href="/snacks/">Snacks</a>
-  <a class="page-link" href="/saus-og-dressing/">Saus og dressing</a>
-  <a class="page-link" href="/krydder-og-marinade/">Krydder og marinade</a>
-  <a class="page-link" href="/drikke/">Drikke</a>
-  <a class="page-link" href="/tilbehoer/">Tilbehør</a>
-  <a class="page-link" href="/bakst/">Bakst</a>
-  <a class="page-link" href="/palegg/">Pålegg</a>
-
-  <!-- Oppskrifter -->
   {% if site.posts.size > 0 %}
     <h2 class="post-list-heading">
       {{ page.list_title | default: "Oppskrifter" }}
@@ -27,7 +11,7 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts limit:25 %}
 
-        {% if post.path contains 'oppskrifter' %}
+        {% if post.path contains page.category %}
           <li>
             <div>
               {% assign date_format = site.minima.date_format 
