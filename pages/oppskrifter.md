@@ -1,5 +1,5 @@
 ---
 layout: oppskrifter
-title: ''
+title: 'Oppskrifter'
 permalink: /oppskrifter/
 ---
