@@ -4,8 +4,6 @@ layout: default
 
 <div class="oppskrifter">
 
-  <p>{{ site.posts.size }}</p>
-
   {% if site.posts.size > 0 %}
     <h2 class="post-list-heading">
       {{ page.list_title | default: "Oppskrifter" }}
@@ -13,10 +11,10 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts limit:25 %}
 
-      {{ page.path }}
-      {{ post.category }}
+      <p>{{ page.path }}</p>
+      <p>{{ post.category }}</p>
 
-        {% if post.path contains page.category %}
+        {% if page.path contains post.category %}
           <li>
             <div>
               {% assign date_format = site.minima.date_format 
