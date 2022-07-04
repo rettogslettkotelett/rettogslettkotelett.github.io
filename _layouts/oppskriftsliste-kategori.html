@@ -11,6 +11,9 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts limit:25 %}
 
+      {{ if post.path }}
+      {{ page.category }}
+
         {% if post.path contains page.category %}
           <li>
             <div>
