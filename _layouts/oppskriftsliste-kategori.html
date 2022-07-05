@@ -12,9 +12,9 @@ layout: default
       {% for post in site.posts limit:25 %}
 
       <p>{{ page.path }}</p>
-      <p>{{ post.category }}</p>
+      <p>{{ post.categories }}</p>
 
-        {% if page.path contains post.category %}
+        {% if page.path contains post.categories %}
           <li>
             <div>
               {% assign date_format = site.minima.date_format 
