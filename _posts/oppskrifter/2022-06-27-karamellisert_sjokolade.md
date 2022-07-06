@@ -2,7 +2,7 @@
 layout: post
 title:  "Oppskrift på karamellisert kvit sjokolade"
 date:   2022-06-27
-categories: tilbehoer
+category: tilbehoer
 featured_image: kvit_sjokolade.jpeg
 ---
 
