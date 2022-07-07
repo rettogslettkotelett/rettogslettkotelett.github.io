@@ -1,5 +1,5 @@
 ---
 layout: oppskriftsliste-kategori
-title: 'Oppskrifter på snacks'
+list_title: 'Oppskrifter på snacks'
 permalink: /oppskrifter/snacks/
 ---

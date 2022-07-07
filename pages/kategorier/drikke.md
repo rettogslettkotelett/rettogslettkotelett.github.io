@@ -1,5 +1,5 @@
 ---
 layout: oppskriftsliste-kategori
-title: 'Oppskrifter på drikke'
+list_title: 'Oppskrifter på drikke'
 permalink: /oppskrifter/drikke/
 ---

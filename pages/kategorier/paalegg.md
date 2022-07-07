@@ -1,5 +1,5 @@
 ---
 layout: oppskriftsliste-kategori
-title: 'Oppskrifter på pålegg'
+list_title: 'Oppskrifter på pålegg'
 permalink: /oppskrifter/paalegg/
 ---

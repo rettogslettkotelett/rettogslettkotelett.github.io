@@ -1,5 +1,5 @@
 ---
 layout: oppskriftsliste-kategori
-title: 'Oppskrifter på bakst'
+list_title: 'Oppskrifter på bakst'
 permalink: /oppskrifter/bakst/
 ---
