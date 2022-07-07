@@ -1,5 +1,5 @@
 ---
 layout: oppskriftsliste-kategori
-title: ''
+title: 'Oppskrifter på tilbehør'
 permalink: /oppskrifter/tilbehoer/
 ---
