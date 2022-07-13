@@ -3,9 +3,9 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  {% if page.featured_image %}
-  <div class="featured-image">
-    <img src="{{ '/assets/images/' | append: page.featured_image | relative_url }}" />
+  {% if page.header_image %}
+  <div class="header_image">
+    <img src="{{ '/assets/images/posts/' | append: page.header_image | relative_url }}" />
   </div>
   {% endif %}
 

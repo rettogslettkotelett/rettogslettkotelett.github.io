@@ -4,7 +4,8 @@ title:  "Pizzadeig"
 description: "pizzadeig"
 tags: ""
 date:   2022-06-27
-featured_image: kvit_sjokolade.jpeg
+preview_image: empty_bowl.jpeg
+header_image: empty_bowl.jpeg
 ---
 
 Pizzabotn, litt generell informasjon

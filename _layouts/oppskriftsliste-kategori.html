@@ -27,10 +27,10 @@ layout: default
               {% if site.show_excerpts %} 
                 {{ post.excerpt }} {% endif %}
             </div>
-            {% if post.featured_image %}
-            <div class="featured-image">
+            {% if post.preview_image %}
+            <div class="preview_image">
               <img
-                src="{{ '/assets/images/' | append: post.featured_image | relative_url }}"
+                src="{{ '/assets/images/posts/' | append: post.preview_image | relative_url }}"
               />
             </div>
             {% endif %}

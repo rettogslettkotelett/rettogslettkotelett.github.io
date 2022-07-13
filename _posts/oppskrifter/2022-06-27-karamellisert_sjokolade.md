@@ -5,7 +5,8 @@ description: "kvit sjokolade"
 tags: "tagstesting"
 date:   2022-06-27
 category: tilbehoer
-featured_image: kvit_sjokolade.jpeg
+preview_image: empty_bowl.jpeg
+header_image: empty_bowl.jpeg
 ---
 
 Kvit sjokolade, heil plate, men del gjerne i to deler. 160 grader i 10-15 min, fryse ned og bryte opp.
