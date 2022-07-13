@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Oppskrift på kvit pizzasaus"
+description: "pizza"
 date:   2022-06-27
 category: middag
 featured_image: kvit_sjokolade.jpeg
