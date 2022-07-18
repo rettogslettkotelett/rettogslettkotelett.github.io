@@ -4,7 +4,7 @@ title:  "Kjekt å vite når du skal bake pizzadeig"
 description: "Ein samling tips for baking av pizzadeig."
 tags: "pizza baking deig pizzadeig"
 date: 2021-08-28
-category: bakst
+category: baking
 preview_image: empty_bowl.jpeg
 header_image: empty_bowl.jpeg
 ---
