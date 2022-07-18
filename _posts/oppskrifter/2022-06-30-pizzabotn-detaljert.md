@@ -12,6 +12,7 @@ header_image: pizzadeig2.jpeg
 Kva med litt påfyll av kunnskap før du set i gong? [Her](https://www.rettogslettkotelett.no/baking/2021/08/28/pizzadeig-nice-to-know.html)) kan du finne nokon tips om baking av pizzadeig.
 
 #### Mengde
+
 4 porsjoner
 
 #### Ingrediensar
