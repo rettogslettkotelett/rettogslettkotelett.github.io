@@ -17,7 +17,7 @@ Oppskrifta er nok til 6-8 desserter.
 
 Ei plate kvit sjokolade
 
-### Framgongsmåte.
+### Framgongsmåte
 
 1. Varm opp ovnen til 160 grader, med over- og undervarme
 2. Del ei plate kvit sjokolade i to, legg den på bakepapir i ei langpanne eller på ei rist.

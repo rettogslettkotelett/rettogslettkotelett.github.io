@@ -14,7 +14,7 @@ header_image: empty_bowl.jpeg
 
 ### Ingrediensar
 
-### Framgongsmåte.
+### Framgongsmåte
 
 ### Inspirasjon
 
