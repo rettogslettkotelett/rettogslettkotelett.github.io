@@ -9,7 +9,7 @@ preview_image: pizzadeig1.jpeg
 header_image: pizzadeig1.jpeg
 ---
 
-Kva med litt påfyll av kunnskap før du set i gong? [Her](https://www.rettogslettkotelett.no/baking/2021/08/28/pizzadeig-nice-to-know.html)) kan du finne nokon tips om baking av pizzadeig.
+Kva med litt påfyll av kunnskap før du set i gong? [Her](https://www.rettogslettkotelett.no/baking/2021/08/28/pizzadeig-nice-to-know.html) kan du finne nokon tips om baking av pizzadeig.
 
 ### Mengde
 
