@@ -9,7 +9,7 @@ preview_image: pizzadeig2.jpeg
 header_image: pizzadeig2.jpeg
 ---
 
-Kva med litt påfyll av kunnskap før du set i gong? [Her](../kunnskap/2021-08-28-pizzadeig-nice-to-know.md) kan du finne nokon tips om baking av pizzadeig.
+Kva med litt påfyll av kunnskap før du set i gong? [Her](https://www.rettogslettkotelett.no/baking/2021/08/28/pizzadeig-nice-to-know.html)) kan du finne nokon tips om baking av pizzadeig.
 
 #### Mengde
 4 porsjoner
@@ -18,8 +18,8 @@ Kva med litt påfyll av kunnskap før du set i gong? [Her](../kunnskap/2021-08-2
 
 530 gram tipo 0 mjøl<br>
 60 gram finmalt spelt, emmer, rug eller hvete fullkorn<br>
-375 gram iskaldt vann<br>
-25 gram vann<br>
+375 gram iskaldt vatn<br>
+25 gram vatn<br>
 3,5 gram tørrgjær<br>
 12 g salt<br>
 3 ts rødvinseddik<br>
