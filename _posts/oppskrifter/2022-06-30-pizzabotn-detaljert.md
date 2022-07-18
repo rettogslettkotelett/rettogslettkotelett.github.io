@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ei litt meir detaljert oppskrift på pizzabotn"
-description: "Ei litt meir detaljert oppskrift på botn til porsjonspizza."
+title:  "Ei detaljert oppskrift på pizzabotn"
+description: "Ei detaljert oppskrift på botn til porsjonspizza."
 tags: "pizza pizzadeig porsjonspizza pizzabunn"
 date:   2022-06-30
 category: til-middag
