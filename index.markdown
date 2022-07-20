@@ -8,5 +8,5 @@ list_title: Nye innlegg
 title: ''
 ---
 
-## Velkommen til rettogslettkotelett, ei samling [matkunnskap](./pages/kunnskap.md) og [oppskrifter.](./pages/oppskrifter.md)
+### Velkommen til rettogslettkotelett, ei samling [matkunnskap](./pages/kunnskap.md) og [oppskrifter.](./pages/oppskrifter.md)
 

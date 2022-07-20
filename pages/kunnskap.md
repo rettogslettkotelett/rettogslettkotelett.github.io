@@ -1,7 +1,6 @@
 ---
 layout: kunnskap
 title: Kunnskap
+list_title: ""
 permalink: /kunnskap/
 ---
-
-Under finner du artikler om matkunnskap.
