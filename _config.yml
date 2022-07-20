@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ein samling oppskrifter og generell kunnskap om mat og kokkelering
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rettogslettkotelett.no" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kotelettos
-github_username:  rettogslettkotelett
+instagram_username: rettogslettkotelett
 
 # Build settings
 theme: minima
