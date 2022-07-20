@@ -4,14 +4,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: Read Our Latest Posts
+list_title: Nye innlegg
 title: ''
 ---
 
-# Github Pages Demo Blog
+Velkommen til rettogslettkotelett, ei samling [matkunnskap](./pages/kunnskap.md) og [oppskrifter.](./pages/oppskrifter.md)
 
-Welcome to this demo blog!
-
-This website is a test on build and deploy a portfolio with a blog using _GitHub Pages_ and _Jekyll_.
-
-You can find the sources of this project [here](https://github.com/rettogslettkotelett/rettogslettkotelett.github.io).
