@@ -4,4 +4,4 @@ title: Kunnskap
 permalink: /kunnskap/
 ---
 
-Her kjem det noko kunnskap
+Under finner du artikler om matkunnskap.
