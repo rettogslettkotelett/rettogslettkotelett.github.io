@@ -1,0 +1,47 @@
+--- 
+layout: default 
+---
+
+<div class="kunnskap">
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %} 
+
+  {{ content }} 
+
+  {% if site.posts.size > 0 %}
+
+    <ul class="post-list">
+      {% for post in site.posts limit:25 %}
+
+        {% if post.path contains 'kunnskap' %}
+          <li>
+            <div>
+              {% assign date_format = site.minima.date_format 
+                | default: "%b %-d, %Y" %}
+              <span class="post-meta">
+                {{ post.date | date: date_format }}
+              </span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              {% if site.show_excerpts %} 
+                {{ post.excerpt }} {% endif %}
+            </div>
+            {% if post.preview_image %}
+            <div class="preview_image">
+              <img
+                src="{{ '/assets/images/posts/' | append: post.preview_image | relative_url }}"
+              />
+            </div>
+            {% endif %}
+          </li>
+        {% endif %}
+
+      {% endfor %}
+    </ul>
+    
+  {% endif %}
+</div>

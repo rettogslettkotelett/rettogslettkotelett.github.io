@@ -1,0 +1,61 @@
+--- 
+layout: default 
+---
+
+<div class="oppskrifter">
+
+  <!-- Kategorier -->
+  <h3 class="post-list-heading">Kategorier</h3>
+
+  <ul>
+    <li><a class="page-link" href="/oppskrifter/til-frukost/">Til frukost</a></li>
+    <li><a class="page-link" href="/oppskrifter/til-middag/">Til middag</a></li>
+    <li><a class="page-link" href="/oppskrifter/til-dessert/">Til dessert</a></li>
+    <li><a class="page-link" href="/oppskrifter/til-kaffien/">Til kaffien</a></li>
+    <li><a class="page-link" href="/oppskrifter/snacks/">Snacks</a></li>
+    <li><a class="page-link" href="/oppskrifter/saus-og-dressing/">Saus og dressing</a></li>
+    <li><a class="page-link" href="/oppskrifter/krydder-og-marinade/">Krydder og marinade</a></li>
+    <li><a class="page-link" href="/oppskrifter/drikke/">Drikke</a></li>
+    <li><a class="page-link" href="/oppskrifter/tilbehoer/">Tilbehør</a></li>
+    <li><a class="page-link" href="/oppskrifter/bakst/">Bakst</a></li>
+    <li><a class="page-link" href="/oppskrifter/paalegg/">Pålegg</a></li>
+  </ul>
+  
+  <!-- Oppskrifter -->
+  {% if site.posts.size > 0 %}
+    <h2 class="post-list-heading">
+      {{ page.list_title | default: "Oppskrifter" }}
+    </h2>
+    <ul class="post-list">
+      {% for post in site.posts limit:25 %}
+
+        {% if post.path contains 'oppskrifter' %}
+          <li>
+            <div>
+              {% assign date_format = site.minima.date_format 
+                | default: "%b %-d, %Y" %}
+              <span class="post-meta">
+                {{ post.date | date: date_format }}
+              </span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              {% if site.show_excerpts %} 
+                {{ post.excerpt }} {% endif %}
+            </div>
+            {% if post.preview_image %}
+            <div class="preview_image">
+              <img
+                src="{{ '/assets/images/posts/' | append: post.preview_image | relative_url }}"
+              />
+            </div>
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    
+  {% endif %}
+</div>
