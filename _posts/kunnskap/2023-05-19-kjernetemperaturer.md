@@ -13,10 +13,33 @@ header_image: empty_bowl.jpeg
 
 Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilden.
 
-| Dyr | Kjøtstykke | Ønska resultat | Grad  | Kommentar |
-|-----|------------|----------------|-------|-----------|
-| Lam | Lammelår   | Medium         | 65 °C |           |
-| Lam | Lammelår   | Medium pluss   | 70 °C |           |  
-| Lam | Lammelår   | Gjennomstekt   | 75 °C |           | 
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Dyr</th>
+            <th>Kjøttstykke</th>
+            <th>Ønska resultat</th>
+            <th>Grad</th>
+            <th>Kommentar</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=3>Lam</td>
+            <td rowspan=3>Lammelår</td>
+            <td rowspan>Medium</td>
+            <td rowspan>65 °C</td>
+            <td rowspan></td>
+        </tr>
+        <tr>
+            <td rowspan>Medium pluss</td>
+            <td rowspan>70 °C</td>
+            <td rowspan></td>
+        </tr>
+        <tr>
+            <td rowspan>Gjennomstekt</td>
+            <td rowspan>75 °C</td>
+            <td rowspan></td>
+        </tr>
+    </tbody>
+</table>
