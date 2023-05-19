@@ -40,6 +40,6 @@ sukker
 
 ### Inspirasjon
 
-https://www.godt.no/oppskrifter/tilbehoer/saus/8487/saus-til-lammelaar
+Inspirert at oppskrift til Lise Finckenhagen publisert på godt.no.
 
 <!-- ### Forbetringspotensiale -->
