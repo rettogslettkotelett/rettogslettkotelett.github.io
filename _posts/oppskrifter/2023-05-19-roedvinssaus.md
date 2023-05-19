@@ -15,18 +15,18 @@ header_image: empty_bowl.jpeg
 
 ### Ingrediensar
 
-2 stk sjalottløk
-2 fedd hvitløk
-2 ss balsamicoeddik
-6 dl raudvin
-6 dl kraft, god og innkokt. Her kan du bruke den kraften som passar best til det du skal laga.
-4 ss smør
-4 ts dijonsennep, grov type
-salt
-pepper
-sukker
-1 ss timian, eller rosmarin, hakket
-4 ss persille, hakket
+2 stk sjalottløk<br>
+2 fedd hvitløk<br>
+2 ss balsamicoeddik<br>
+6 dl raudvin<br>
+6 dl kraft, god og innkokt. Her kan du bruke den kraften som passar best til det du skal laga.<br>
+4 ss smør<br>
+4 ts dijonsennep, grov type<br>
+salt<br>
+pepper<br>
+sukker<br>
+1 ss timian, eller rosmarin, hakket<br>
+4 ss persille, hakket<br>
 
 ### Framgongsmåte
 
