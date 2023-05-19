@@ -9,8 +9,6 @@ preview_image: empty_bowl.jpeg
 header_image: empty_bowl.jpeg
 ---
 
-### Kjernetemperaturar
-
 Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilden.
 
 <table>
