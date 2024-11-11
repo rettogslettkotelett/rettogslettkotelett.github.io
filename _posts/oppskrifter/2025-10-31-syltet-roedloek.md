@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Sylta raudløk"
+title:  "Sylta raudløk 2"
 description: "Deilig sylta raudløk som passar til så mangt"
 tags: "rødløk raudløk syltet sylta"
-date:   2025-10-31
+date:   2023-10-31
 category: tilbehoer
 preview_image: empty_bowl.jpeg
 header_image: empty_bowl.jpeg
