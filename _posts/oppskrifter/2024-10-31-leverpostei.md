@@ -3,7 +3,7 @@ layout: post
 title:  "Svigermormors leverpostei, den danske oppskrift"
 description: "Lag leverposteien din sjølv veit."
 tags: "leverpostei pålegg"
-date: 2025-10-31
+date: 2024-10-31
 category: til-middag
 preview_image: empty_bowl.jpeg
 header_image: empty_bowl.jpeg
