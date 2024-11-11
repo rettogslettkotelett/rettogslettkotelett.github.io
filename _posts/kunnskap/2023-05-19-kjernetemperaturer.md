@@ -39,5 +39,12 @@ Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilde
             <td rowspan>75 °C</td>
             <td rowspan></td>
         </tr>
+        <tr>
+            <td rowspan=3>Svin</td>
+            <td rowspan=3>TODO</td>
+            <td rowspan>TODO</td>
+            <td rowspan>TODO</td>
+            <td rowspan></td>
+        </tr>
     </tbody>
 </table>
