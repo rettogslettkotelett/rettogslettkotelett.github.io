@@ -9,7 +9,7 @@ preview_image: empty_bowl.jpeg
 header_image: empty_bowl.jpeg
 ---
 
-Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilden.
+Hugs at kjernetemperaturen stig eit par grader etter du tek det bort frå varmekilden.
 
 <table>
     <thead>
@@ -22,6 +22,13 @@ Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilde
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Laks</td>
+            <td>-</td>
+            <td rowspan>-</td>
+            <td rowspan>60 °C</td>
+            <td rowspan></td>
+        </tr>
         <tr>
             <td rowspan=3>Lam</td>
             <td rowspan=3>Lammelår</td>
@@ -37,13 +44,6 @@ Hugs at kjernetemperaturen stig 1-2 grader etter du tek det bort frå varmekilde
         <tr>
             <td rowspan>Gjennomstekt</td>
             <td rowspan>75 °C</td>
-            <td rowspan></td>
-        </tr>
-        <tr>
-            <td rowspan=3>Svin</td>
-            <td rowspan=3>TODO</td>
-            <td rowspan>TODO</td>
-            <td rowspan>TODO</td>
             <td rowspan></td>
         </tr>
     </tbody>
