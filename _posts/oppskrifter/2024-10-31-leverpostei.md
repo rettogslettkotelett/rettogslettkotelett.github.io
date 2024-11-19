@@ -15,16 +15,16 @@ Nok til å kose seg med god leverpostei eit par dagar
 
 ### Ingrediensar
 
-250 gram hakket lever fra svin eller okse
-125 gram hakket spekk
-1 løk
-1 egg
-1 ss mjøl
-2,5 dl mjølk
-3/4 ts pepper, gjerne fersk fra kvernen
-1 ts allehåndepulver
-1 ts salt
-Ev. bacon
+250 gram hakket lever fra svin eller okse<br>
+125 gram hakket spekk<br>
+1 løk<br>
+1 egg<br>
+1 ss mjøl<br>
+2,5 dl mjølk<br>
+3/4 ts pepper, gjerne fersk fra kvernen<br>
+1 ts allehåndepulver<br>
+1 ts salt<br>
+Ev. bacon<br>
 
 ### Framgongsmåte
 
