@@ -23,6 +23,13 @@ Hugs at kjernetemperaturen stig eit par grader etter du tek det bort frå varmek
     </thead>
     <tbody>
         <tr>
+            <td>Kylling</td>
+            <td>-</td>
+            <td rowspan>Gjennomstekt</td>
+            <td rowspan>75 °C</td>
+            <td rowspan></td>
+        </tr>
+        <tr>
             <td>Laks</td>
             <td>-</td>
             <td rowspan>-</td>
