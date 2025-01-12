@@ -15,16 +15,16 @@ Rundt 20 stk.
 
 ### Ingrediensar
 
-700 gram romtemperert vatn
-150 gram yougurt naturell
-20 gram fersk gjær
-300 gram revet gulerot
-100 gram solsikkekjernar
-100 gram havregryn
-20 gram honning
-20 gram salt
-900 gram kveitemjøl.
-Solsikkekjernar eller graskarkjernar til dryss.
+700 gram romtemperert vatn<br>
+150 gram yougurt naturell<br>
+20 gram fersk gjær<br>
+300 gram revet gulerot<br>
+100 gram solsikkekjernar<br>
+100 gram havregryn<br>
+20 gram honning<br>
+20 gram salt<br>
+900 gram kveitemjøl.<br>
+Solsikkekjernar eller graskarkjernar til dryss.<br>
 
 ### Framgongsmåte
 
