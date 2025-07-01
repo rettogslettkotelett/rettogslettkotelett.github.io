@@ -15,7 +15,7 @@ header_image: empty_bowl.jpeg
 
 ### Ingrediensar
 
-730 gram romtemperert vatn (700 gram om du bruker fersk)<br>
+730 gram romtemperert vatn (700 gram om du bruker fersk gjær)<br>
 150 gram yougurt naturell<br>
 120 gram surdeigstarter (ev. 20 gram fersk gjær, hugs då å bruke mindre vatn)<br>
 300 gram revet gulerot<br>
