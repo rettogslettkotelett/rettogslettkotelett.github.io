@@ -5,8 +5,8 @@ description: "Saftige kaldheva rundstykker med gulerot"
 tags: "rundstykker gulerot kaldheva surdeig"
 date:   2024-12-01
 category: til-frukost
-preview_image: empty_bowl.jpeg
-header_image: empty_bowl.jpeg
+preview_image: kaldheva_rund.jpeg
+header_image: kaldheva_rund.jpeg
 ---
 
 ### Mengde
