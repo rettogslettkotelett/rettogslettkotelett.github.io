@@ -5,8 +5,8 @@ description: "Brød for babyar"
 tags: "brød baby jernrik surdeig"
 date:   2025-07-27
 category: til-frukost
-preview_image: empty_bowl.jpeg
-header_image: empty_bowl.jpeg
+preview_image: livets_forste_brod.jpeg
+header_image: livets_forste_brod.jpeg
 ---
 
 ### Mengde
