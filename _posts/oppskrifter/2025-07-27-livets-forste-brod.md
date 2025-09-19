@@ -18,7 +18,7 @@ header_image: livets_forste_brod.jpeg
 165 gram sammalt speltmjøl<br>
 150 gram siktet speltmjøl<br>
 35 gram sesamfrø<br>
-40 gram chiafrø<br>
+20 gram chiafrø<br>
 50 gram havregryn<br>
 1/2 t-skje tørrgjær<br>
 400 gram vatn<br>
